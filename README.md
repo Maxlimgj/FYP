@@ -4,8 +4,6 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Requirements](#requirements)
-- [Contributing](#contributing)
-
 
 ## Introduction
 
