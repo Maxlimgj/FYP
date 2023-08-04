@@ -4,10 +4,8 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -37,9 +35,3 @@ To run this project, you will need the following hardware and software component
 - Web server software to host the dashboard (e.g., Apache, Nginx).
 - Database management system (e.g., MySQL, SQLite) for data storage.
 - Frontend technologies (HTML, CSS, JavaScript) for creating the web-based dashboard.
-
-## Installation
-
-Follow these steps to set up the project on your system:
-
-1. Clone this repository to your Raspberry Pi using the following command:
