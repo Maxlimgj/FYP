@@ -1,4 +1,4 @@
-# Project Name
+# Save My Community Garden
 
 ## Table of Contents
 - [Introduction](#introduction)
